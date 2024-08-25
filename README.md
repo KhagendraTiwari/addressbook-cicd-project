@@ -5,15 +5,7 @@ this is our first change and change and eit
 this is our new chnage this sdassaas
 this is my first upate
 this is my final repo 
-this is new file
-one more update
-new change
-ek aur change
-just one more
-ek baar aur pakka
-can i one more please....
-For Poll SCM
-for Poll SCM
+
 ==================== d
 dd
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
